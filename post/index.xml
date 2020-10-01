@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on MICHEAL A.O(cauchymike)</title>
+    <link>https://cauchymike.github.io/cauchy_mikes_portfolio/post/</link>
+    <description>Recent content in Projects on MICHEAL A.O(cauchymike)</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 02 Jul 2020 12:00:00 -0500</lastBuildDate>
+    
+	<atom:link href="https://cauchymike.github.io/cauchy_mikes_portfolio/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Project 8: Whatsapp Chatbot</title>
+      <link>https://cauchymike.github.io/cauchy_mikes_portfolio/post/chapter-8/</link>
+      <pubDate>Tue, 01 Sep 2020 11:13:32 -0200</pubDate>
+      
+      <guid>https://cauchymike.github.io/cauchy_mikes_portfolio/post/chapter-8/</guid>
+      <description>Chatbots have become very useful for large and small enterprises. This is because despite is usefulness, it is also very easy to manage. This chatbot was built with Twilio and python alone. Although, I will be adding Google dialogflow to power the chatbot with artificial intelligence. This chatbot has the ability to register its users. The database used for this project is the MySql database. More projects on Telegram and facebook chatbots will follow soon.</description>
+    </item>
+    
+    <item>
+      <title>Project 7: Comprehensive data analytics</title>
+      <link>https://cauchymike.github.io/cauchy_mikes_portfolio/post/chapter-7/</link>
+      <pubDate>Sat, 01 Aug 2020 11:13:32 -0500</pubDate>
+      
+      <guid>https://cauchymike.github.io/cauchy_mikes_portfolio/post/chapter-7/</guid>
+      <description>While preparing for the 2020 DSN competition, I decided to play around with the 2019 DSN competition dataset. I performed full EDA, which includes univariate analysis, bivariate analysis and multivariate analysis. I also cleaned the dataset with sophisticated data cleaninig procedures. The most amazing thing wa that, during my analysis, I discovered inbalance in the target variable. Although, I didnt apply any balancing technique to balance the dataset, I stated it at the end of the project that further research was going to involve using SMOTE to balance the dataset.</description>
+    </item>
+    
+    <item>
+      <title>Project 6: Mathsclinic blog</title>
+      <link>https://cauchymike.github.io/cauchy_mikes_portfolio/post/chapter-6/</link>
+      <pubDate>Wed, 01 Jul 2020 11:13:32 -0400</pubDate>
+      
+      <guid>https://cauchymike.github.io/cauchy_mikes_portfolio/post/chapter-6/</guid>
+      <description>During my NYSC, I started a tutorial class for students preparing for WAEC(West Afican Certificate Examinations), it made me fall in love with maths so much that I made up my mind that I was going to use advanced maths to solve more challenging problems. Due to the pandemic, the classes were stopped abruptly. I designed this blog with flask to improve my understanding of flask. Although, I started with SQLITE as the database, I will be using POSTGRESQL or MySQL during deployment on Heroku or AWS using EC2 instance.</description>
+    </item>
+    
+    <item>
+      <title>Project 5: SPAM message Detector</title>
+      <link>https://cauchymike.github.io/cauchy_mikes_portfolio/post/chapter-5/</link>
+      <pubDate>Thu, 25 Jun 2020 11:13:32 -0400</pubDate>
+      
+      <guid>https://cauchymike.github.io/cauchy_mikes_portfolio/post/chapter-5/</guid>
+      <description>In a time where fraudulent activities are rising exponentially, I took the time to work on this special project. The model which i built can detect Spam messages. I also took the time to deploy this on Heroku, although, I didnt really style the UI. This project was mainly focused on increasing my knowledge on NLP.
+  part of the codes from the project   Link to GitHub repository</description>
+    </item>
+    
+    <item>
+      <title>Project 4: Prediction of the prices of used phones.</title>
+      <link>https://cauchymike.github.io/cauchy_mikes_portfolio/post/chapter-4/</link>
+      <pubDate>Mon, 15 Jun 2020 11:13:32 -0400</pubDate>
+      
+      <guid>https://cauchymike.github.io/cauchy_mikes_portfolio/post/chapter-4/</guid>
+      <description>As we know, in a country like Nigeria, some of the phones we buy are used phones. We can purchase phones like these even from online stores like jiji. Anyone familiar with jiji plattform knows that the sellers give brief description about the phones they want to sell and the location they are selling from. This model used these features to give predictions of used phones based on those descriptions given by the seller.</description>
+    </item>
+    
+    <item>
+      <title>Project 3: Interest Rate Predictor</title>
+      <link>https://cauchymike.github.io/cauchy_mikes_portfolio/post/chapter-1/</link>
+      <pubDate>Fri, 29 May 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://cauchymike.github.io/cauchy_mikes_portfolio/post/chapter-1/</guid>
+      <description>Banks offer various kinds of accounts and provide loans based on the requirements. Apart from it, there are other various activities like investments in market and different funds. Overall, the banking sector has a wide impact on the economy directly and indirectly. There are many banks across the globe that are leveraging machine learning and AI in their daily routine and getting benefits out of it.
+ This project was aimed at predicting the level of interest loans for bank customers.</description>
+    </item>
+    
+    <item>
+      <title>Project 2: Glass Prediction Model</title>
+      <link>https://cauchymike.github.io/cauchy_mikes_portfolio/post/chapter-2/</link>
+      <pubDate>Wed, 20 May 2020 11:00:59 -0400</pubDate>
+      
+      <guid>https://cauchymike.github.io/cauchy_mikes_portfolio/post/chapter-2/</guid>
+      <description>With technology, glass and its applications have evolved, and today, we have different varieties of glass used for very different purposes from a computer monitor to a bulletproof car window depending on the grade of the glass produced.
+  This Project was aimed at predicting two different types of glass.
+    A visualization from the project   Link to GitHub repository</description>
+    </item>
+    
+    <item>
+      <title>Project 1: Prediction of House Prices</title>
+      <link>https://cauchymike.github.io/cauchy_mikes_portfolio/post/chapter-3/</link>
+      <pubDate>Tue, 21 Apr 2020 11:13:32 -0400</pubDate>
+      
+      <guid>https://cauchymike.github.io/cauchy_mikes_portfolio/post/chapter-3/</guid>
+      <description>Ask a home buyer to describe their dream house, and they probably won&amp;rsquo;t begin with the height of the basement ceiling or the proximity to an east-west railroad.Given some features of a house, our model will give the price range of that particular house.
+  A visualization from the project   Link to GitHub repository</description>
+    </item>
+    
+  </channel>
+</rss>
